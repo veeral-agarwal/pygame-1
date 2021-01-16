@@ -1,0 +1,17 @@
+ship1_x=250
+ship2_x=450
+ship3_x=650
+ship4_x=250
+ship5_x=450
+ship6_x=650
+ship1_y=250
+ship2_y=250
+ship3_y=250
+ship4_y=550
+ship5_y=550
+ship6_y=550
+player_1_x = 400
+player_1_y = 750
+score = 0
+level = 1
+change = 1
