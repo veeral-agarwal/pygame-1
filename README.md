@@ -1,8 +1,8 @@
 # python game
 
-just trying to learn pygame.
+just trying to learn pygame library.
 
-prerequisites - python3.
+prerequisites - python3 , pygame.
 
 play the game:
 ```
