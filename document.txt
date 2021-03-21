@@ -1,0 +1,7 @@
+River cross 
+Best of three:
+Scoring criteria ->
+Each round score is counted separately for both players
+if score of both of them is equal then player with less time taken in that round wins the round
+if time taken is equal player2 wins the round 
+ 
