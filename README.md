@@ -1,3 +1,2 @@
 # River Cross game 
-
-ISS Assignment3
+## Introduction to software systems - assignment 3 
