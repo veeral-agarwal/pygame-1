@@ -1,2 +1,2 @@
-# River Cross game 
+# River game 
 ## Introduction to software systems - assignment 3 
