@@ -1,2 +1,2 @@
 # River game 
-## Introduction to software systems - assignment 3 
+## a game made in python3 using pygame library as assignment 3 of Introduction to software systems
